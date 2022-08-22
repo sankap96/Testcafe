@@ -1,6 +1,12 @@
 {
-  "devDependencies": {
-    "testcafe": "^1.20.1",
-    "testcafe-reporter-xunit": "^2.2.1"
-  }
+{
+    "scripts": {
+        "test": "testcafe chrome:headless test.js"
+    },
+
+    "devDependencies": {
+        "testcafe": "*",
+        "testcafe-reporter-xunit": "*"
+    }
+}
 }
