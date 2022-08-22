@@ -1,0 +1,6 @@
+{
+  "devDependencies": {
+    "testcafe": "^1.20.1",
+    "testcafe-reporter-xunit": "^2.2.1"
+  }
+}
